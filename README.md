@@ -21,7 +21,7 @@ This project implements an AI chatbot with user authentication and chat history 
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/ai-chatbot.git
+https://github.com/Shaiksha9741/Ai-chatbot.git
 cd ai-chatbot
 \`\`\`
 
